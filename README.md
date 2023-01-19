@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenHilderman
-- :pencil2: I’m currently learning JavaScript, Python, HTML and CSS
+- :pencil2: I'm proficient in JavaScript, Python, Java, HTML and CSS
 - 📫 How to reach me: benjaminhilderman@gmail.com
 
 <!---
