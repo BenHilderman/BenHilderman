@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenHilderman
-- :pencil2: I'm proficient in JavaScript, Python, Java, Perl, HTML, CSS and Bash shell scripting 
+- :pencil2: I'm proficient in JavaScript, Python, Java, Perl, HTML, CSS and Bash Shell scripting 
 - 📫 How to reach me: benjaminhilderman@gmail.com
 
 <!---
