@@ -24,19 +24,19 @@ Core engineering focus
 ---
 
 ### Featured projects
-• **GymQuest-App**  
+• <a href="https://github.com/BenHilderman/GymQuest-App"><b>GymQuest-App</b></a>  
 iOS fitness app with a full automated test suite including unit, integration, snapshot, UI, and performance targets running in CI with Fastlane  
 Stack: Swift, SwiftUI, SwiftData, Xcode, Fastlane, CI pipelines
 
-• **journal-app**  
-Web app with semantic retrieval and grounded reflections plus regression style tests for reliable behavior  
+• <a href="https://github.com/BenHilderman/journal-app"><b>journal-app</b></a>  
+Web app with semantic retrieval and grounded reflections + regression style tests for reliable behavior  
 Stack: TypeScript, JavaScript, embeddings, retrieval, test harnesses
 
-• **aiops-network-ml**  
+• <a href="https://github.com/BenHilderman/aiops-network-ml"><b>aiops-network-ml</b></a>  
 ML experiments on network telemetry with reproducible pipelines and evaluation  
 Stack: Python, data processing, model training, experiment tracking
 
-• **musicapp-qhacks2025**  
+• <a href="https://github.com/BenHilderman/musicapp-qhacks2025"><b>musicapp-qhacks2025</b></a>  
 AI music discovery prototype with Spotify auth and LLM powered recommendations  
 Stack: Swift, OAuth, persistence, LLM integration
 
