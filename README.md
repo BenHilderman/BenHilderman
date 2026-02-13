@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/benjaminhilderman/">LinkedIn</a> •
-  <a href="mailto:benjaminhilderman@gmail.com">benjaminhilderman@gmail.com</a>
+  <a href="mailto:benjaminhilderman@gmail.com">benjaminhilderman@gmail.com</a> •
+  <a href="https://benhilderman.github.io/">My Website</a>
 </p>
 
 ---
