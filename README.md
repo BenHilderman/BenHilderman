@@ -1,7 +1,7 @@
 <h1 align="center">Benjamin Hilderman</h1>
 
 <p align="center">
-  CS New Grad (Apr 2026) • 3× Software Engineer Intern (CI/CD + Test Automation) • Backend Java Spring • Full Stack Angular
+  CS New Grad (Apr 2026) • 3× Software Engineer Intern (CI/CD + Test Automation) • Full Stack Angular • Backend 
 </p>
 
 <p align="center">
